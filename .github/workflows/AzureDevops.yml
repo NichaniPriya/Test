@@ -10,7 +10,7 @@ steps:
     --token "bjKUlzoLS6FuJvEKD2V3KADDygVRNhyJnfYrAqu9MoSmtmyF2C" \
     --project "tNnA05XxVuNZHQnX8Ygd" \
     --grid "Testim-Grid" \
-    --suite "Test Demo" \
+    --suite "Test Case Demo Suite" \
     --report-file testim-tests-report.xml
   displayName: 'npm install testim-cli and run tests'
 
